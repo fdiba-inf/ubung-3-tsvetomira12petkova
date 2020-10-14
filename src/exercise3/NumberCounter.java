@@ -26,8 +26,8 @@ public class NumberCounter {
       ave = sum/count;
       n = input.nextInt();
       }
-      System.out.println("Sum is: " + sum);
-      System.out.println("Average is: " + ave);
+      System.out.println("Sum: " + sum);
+      System.out.println("Average: " + ave);
     
     }
 
